@@ -255,6 +255,7 @@ https://www.datacamp.com/datalab/w/0357d0cb-d754-4a18-98d2-fc26930e2f6b/edit
 # Посилання:
 
 - Посібник з Markdown, https://github.com/Data-Analytics-for-beginners/DataAnalyticsCourse2025/blob/main/Markdown-Guide.md
+- Markdown Guide, https://www.markdownguide.org/basic-syntax/
 - Data Analyst Roadmap, https://roadmap.sh/data-analyst
 -------------------------------------------------------------------------------------------------
 
