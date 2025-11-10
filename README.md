@@ -136,6 +136,17 @@ https://www.datacamp.com/datalab/w/0357d0cb-d754-4a18-98d2-fc26930e2f6b/edit
 ### 6. Робота з SQL: Поглиблена практика
 Складні запити SQL, об'єднання таблиць, підзапити, агрегація та віконні функції.
 
+- Метрики (product metrics)
+- Common Table Expression (CTE)
+- Віконні функції SQL (Window Functions)
+
+------
+
+- Практичне завдання (ПЗ) №1:  Налаштування бази даних PostgreSQL на екземплярі AWS RDS
+- Домашнє завдання (ДЗ) №1:  Базові Window Functions.
+
+https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
+
 ### 7. Візуалізація даних: Excel/Google Sheets
 Створення діаграм, основи візуалізації в Excel та Google Sheets для представлення даних.
 
