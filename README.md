@@ -222,6 +222,7 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 - ПЗ №1: Автоматизація звітності за бізнес-метриками з використанням планування у DataCamp
 - ПЗ №2: Моніторинг використання оперативної пам'яті в реальному часі за допомогою Streamlit Cloud
 - ПЗ №3: Створення real-time дашборду за допомогою Streamlit
+- https://github.com/Data-Analytics-for-beginners/real-time-memory-usage-monitor
 - ПЗ №4: Розгортання Apache Kafka для аналітики даних 
 - https://github.com/Data-Analytics-for-beginners/kafka-docker-python
 - ДЗ №1: Автоматизація звітності з використанням планування у DataCamp Workspace
