@@ -363,3 +363,9 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 - Data Career Podcast, https://www.youtube.com/playlist?list=PLo0oTKi2fPNjU4Jq4LjnpaPMEvdrtZIJ6
 - Want to be a Data Analyst? Learn These Skills, https://www.youtube.com/watch?v=QsoYxQCznn4
 
+
+# Книги:
+- Stream Processing with Apache Flink. Fundamentals, Implementation, and Operation of Streaming Applications
+- 
+
+
