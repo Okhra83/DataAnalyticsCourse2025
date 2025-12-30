@@ -245,7 +245,8 @@ https://www.datacamp.com/datalab/w/b9445766-8292-4677-b80c-fbe36f69182a/edit
 - Практичне заняття (ПЗ) №1:  Використання Confluent Cloud для роботи з Apache Kafka
 - ПЗ №2: Розгортання та управління застосунками в Kubernetes для операцій машинного навчання (MLOps) (https://github.com/Data-Analytics-for-beginners/kubernetes-practice)
 - ПЗ №3: Захищений API для класифікації квітів Iris з JWT автентифікацією та rate limiting (https://github.com/Data-Analytics-for-beginners/secure-ml-API)
-- ПЗ №4:  Потокова обробка  даних з використанням Apache Flink та Python (https://github.com/Data-Analytics-for-beginners/Stream-Processing-with-Flink)  
+- ПЗ №4:  Потокова обробка  даних з використанням Apache Flink та Python (https://github.com/Data-Analytics-for-beginners/Stream-Processing-with-Flink)
+- ПЗ №5:  Створення розподіленої системи для обробки потокових даних у реальному часі за допомогою Apache Flink, Kafka та PyFlink (https://github.com/Data-Analytics-for-beginners/kafka-flink-python-docker)  
 - ДЗ №1: Автоматизація запуску ETL-процесу (витяг, трансформація, завантаження даних) з використанням бібліотеки schedule в Python
 - ДЗ №2:  Нормалізація даних (на прикладі Heart Disease Dataset) (https://www.datacamp.com/datalab/w/68938321-3635-4a7c-9ece-074af6616cbd/edit)
   
